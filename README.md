@@ -2,9 +2,6 @@
 These teaching materials are used by the COST network OPINION.
 
 
-**THESE RESOURCES ARE STILL UNDER DEVELOPMENT AND MAY STILL CHANGE**
-
-
 ## COpA
 We will use these materials during the [COST Action Training School in Salamanca, Spain](https://www.opinion-network.eu/updates/cost-action-training-school-in-salamanca-spain_2023-11-07).
 
@@ -15,14 +12,10 @@ In this short one-hour session, we will mainly discuss the what machine learning
 In this this hands-on session, we will build our own classifiers. For this, we are essentially following [Chapter 8](https://v2.cssbook.net/content/chapter08.html) and parts of  [Chapter 11](https://v2.cssbook.net/content/chapter11.html) of the book *Computational Analysis of Communication* by Wouter van Atteveldt, Damian Trilling, and Carlos Arcila Calderón. Materials:
 
 - [slides](sml.pdf)
-- CoLab-notebook R [TO BE ADDED
-- CoLab-notebook Python [TO BE ADDED]
 - Full Chapter text with all code examples: [Chapter 8](https://v2.cssbook.net/content/chapter08.html),  [Chapter 11](https://v2.cssbook.net/content/chapter11.html)
-
-
 - For R users: [![Open In
   Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damian0604/teaching-cost/blob/main/chapter11-r.ipynb)
 - For Python users: [![Open In
   Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damian0604/teaching-cost/blob/main/chapter11-py.ipynb)
 
-https://github.com/
+
