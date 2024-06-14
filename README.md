@@ -19,3 +19,10 @@ In this this hands-on session, we will build our own classifiers. For this, we a
 - CoLab-notebook Python [TO BE ADDED]
 - Full Chapter text with all code examples: [Chapter 8](https://v2.cssbook.net/content/chapter08.html),  [Chapter 11](https://v2.cssbook.net/content/chapter11.html)
 
+
+- For R users: [![Open In
+  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damian0604/teaching-cost/blob/main/chapter11-r.ipynb)
+- For Python users: [![Open In
+  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damian0604/teaching-cost/blob/main/chapter11-py.ipynb)
+
+https://github.com/
